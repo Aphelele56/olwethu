@@ -1,0 +1,39 @@
+body{
+    
+    border: 2px solid black;
+    padding: 25px;
+    background: url(w.jpg);
+    background-repeat: no-repeat;
+    background-size: 105% 150%;
+} 
+
+
+h1 {
+    text-align: center;
+    font-style: oblique;
+    color:white;
+    font-weight: bold;
+    position: relative;
+    animation: mymove 5s infinite;
+    
+  }
+  
+ h1{animation-timing-function: linear;}
+   
+  @keyframes mymove {
+    from {left: 0px;}
+    to {left: 300px;}
+  }
+  h2{
+      text-align: center;
+      color: white;
+      font-style: italic;
+      font-weight: large;
+      font-weight: bold;
+      font-stretch: semi-expanded;
+      font-size: xxxx-large;
+  }
+  ap{
+margin-bottom: 20%;
+  }
+ 

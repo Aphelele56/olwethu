@@ -1,0 +1,41 @@
+body{
+    
+    border: 2px solid black;
+    padding: 25px;
+    background: url(lol.jpg);
+    background-repeat: no-repeat;
+    background-size: 300% 100%;
+} 
+h3{
+  color: whitesmoke;
+  text-align: center;
+}
+p{
+ color: whitesmoke;
+}
+a{
+   color: white;
+    font-weight: 200px;
+   }
+   * {
+    box-sizing: border-box;
+  }
+  
+  content{
+       margin-bottom: 5%;
+  }
+ 
+  
+  
+  
+  #myBtn:hover {
+    background: #ddd;
+    color: black;
+  }
+ aphelele {
+margin-top: 5%;
+  }
+label{
+  color: white;
+  font-size: initial;
+}
